@@ -1,0 +1,140 @@
+consta Movie=[
+{
+key:1,
+Name :"3Idiots",
+Img url :"https://images.cinemaexpress.com/uploads/user/imagelibrary/2020/5/1/original/3_Idiots.PNG",
+Movie link :"https://youtu.be/sIs8dPjsfc8"
+},
+{
+key:2,
+Name :"Kahaani 2",
+Img url :"https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Kahaani_2_film_poster.jpg/220px-Kahani_2_film_poster.jpg",
+Movie link :"https://youtu.be/KGI6L5oIusY"
+},
+{'
+key:3,
+Name :"pk",
+Img url :"https://m.media-amazon.com/images/M/MV5BMTYzOTE2NjkxN15BMl5BanBnXkFtZTgwMDgzMTg0MzE@._V1_.jpg",
+Movie link :"https://youtu.be/zksNt7Dv0sk"
+},
+{
+key:4,
+Name :"Yeh Jawani Hai Diwani",
+Img url :"https://i.pinimg.com/originals/34/5f/ec/345fecf5e269212d9a287508648ec173.jpg",
+Movie link :"https://t.me/yeh_jawani_hai_Movie_diwanii/15"
+},
+{
+key:5,
+Name :"Zindagi Na Milegi Dobara",
+Img url :"https://lh3.googleusercontent.com/proxy/zKsGzaSRZYbeEwmzjTw-K3DcTZ2Bv8Ls518FZhSOIbiaIEFkgA8zxBWHAs2Z6Ap1V0T8Z4LEE2y4hss6dq1vzMMkJHHQlLB78D-9UP69tYs5FB0TmDkM3zdnLWR9nptmyiGdlYK_yvhXUbvGd0Q",
+Movie link :"https://youtu.be/lfhkyjNE3EQ"
+},
+{
+key:6,
+Name :"M.S. Dhoni: The Untold Story",
+Img url :"https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/old_images/MOVIE/3314/1770003314/1770003314-h"
+Movie link :"https://youtu.be/vVQ5rgwO1C8"
+},
+{
+key:7,
+Name :"Taare Zameen Par",
+Img url :"https://i.ytimg.com/vi/NYeS7Wg9qmY/hqdefault.jpg",
+Movie link :"https://youtu.be/NYeS7Wg9qmY"
+},
+{
+key:8,
+Name :"Hera Pheri",
+Img url :"https://i.ytimg.com/vi/Y9rMLLCrpqE/maxresdefault.jpg",
+Movie link :"https://youtu.be/TIQ5hrfermg"
+},
+{
+key:9,
+Name :"Andaz Apna Apna",
+Img url :"https://upload.wikimedia.org/wikipedia/en/thumb/1/15/Andaz_Apna_Apna.jpg/220px-Andaz_Apna_Apna.jpg",
+Movie link :"https://t.me/andaz_apna_apna_movie_HD/10"
+},
+{
+key:10,
+Name :"Super 30",
+Img url :"https://upload.wikimedia.org/wikipedia/en/2/29/Super_30_The_Film.jpg",
+Movie link :"https://t.me/super_30_movies_download_hkl/865"
+},
+{
+key:11,
+Name :"Mission mangal",
+Img url :"https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Mission_Mangal.jpg/220px-Mission_Mangal.jpg",
+Movie link :"https://t.me/Movie_Mission_Mangal_HD/10"
+},
+{
+key:12,
+Name :"Lage Raho Munna Bhai",
+Img url :"https://miro.medium.com/max/640/0*k8u80YCWZutUChqL",
+Movie link :"https://t.me/Lage_Raho_Munna_Bhai_hd/3"
+},
+{
+key:13,
+Name :"Chak De! India",
+Img url :"https://timesofindia.indiatimes.com/thumb/msid-65653642,width-1200,height-900,resizemode-4/.jpg",
+Movie link :"https://t.me/CHAK_DE_INDIA_HD_Movie/14"
+},
+{
+key:14,
+Name :"Jo Jeeta Wohi Sikandar",
+Img url :"https://www.medianews4u.com/wp-content/uploads/2017/12/Jo-Jeeta-2.jpg",
+Movie link :"https://t.me/Jo_Jeeta_Wohi_Sikandar_movie/3"
+},
+{
+key:15,
+Name :"Bhaag Milkha Bhaag",
+Img url :"https://miro.medium.com/max/640/0*928GhRPk-I8uIq3O",
+Movie link :"https://t.me/bhagmilkhabhagmoviedownload/5"
+},
+{
+key:16,
+Name :"Nayak: The Real Hero",
+Img url :"https://miro.medium.com/max/627/0*cgczpHp5-748fcRd",
+Movie link :"https://t.me/Nayak_The_Real_Hero_2001/3"
+},
+{
+key:17,
+Name :"Lakshya",
+Img url :"https://miro.medium.com/max/640/0*mxW4Khz4WzVp0_Fb",
+Movie link :"https://youtu.be/-AbPdigfUHo"
+},
+{
+key:18,
+Name :"Munna Bhai M.B.B.S",
+Img url :"https://miro.medium.com/max/640/0*UMxD-Ja7PIhZW4OA",
+Movie link :"https://t.me/Munna_Bhai_MBBS_Movie_HD/9"
+},
+{
+key:19,
+Name :"A Wednesday!",
+Img url :"https://miro.medium.com/max/640/0*Zk-i0IEnUehXr_Eu",
+Movie link :"https://t.me/A_Wednesday_HD_Movie/9"
+},
+{
+key:20,
+Name :"Manjhi: The Mountain Man",
+Img url :"https://miro.medium.com/max/640/0*-PBagWO0fmOoawNx",
+Movie link :"https://t.me/Manjhi_Movie_Hd/13"
+},
+{
+key:21,
+Name :"Bucket List",
+Img url :"https://upload.wikimedia.org/wikipedia/en/thumb/3/38/Bucket_List_-_Poster.jpg/220px-Bucket_List_-_Poster.jpg",
+Movie link :"https://t.me/c/1470610482/579"
+},
+{
+key:22,
+Name :"Muramba",
+Img url :"https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/Muramba_poster.jpg/220px-Muramba_poster.jpg",
+Movie link :"https://t.me/marathimovies_1080p/668"
+},
+{
+key:23,
+Name :"AB Ani CD",
+Img url :"https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/AB_Aani_CD_Official_Poster.jpg/220px-AB_Aani_CD_Official_Poster.jpg",
+Movie link :"https://t.me/ab_ani_cd_marathi_movie/4"
+}
+]
